@@ -1,0 +1,8 @@
+title: Super Glides
+description: This mod replaces the boring glide levels with levels 5, 6, 7, and ULTRA! You can also glide up slopes, accelerate instantly, and no longer fall slowly while gliding!
+assets:
+#Lua Scripts
+- name: scripts/F266B00B betterglide.lua
+  method: copy
+  source:
+  - name: F266B00B betterglide.lua
